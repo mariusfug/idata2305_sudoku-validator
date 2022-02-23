@@ -1,4 +1,4 @@
-Sudoku validator Gruppe 13
+Sudoku validator Gruppe 15
 
 
 Compiler:
