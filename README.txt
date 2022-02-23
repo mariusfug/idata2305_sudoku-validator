@@ -3,7 +3,7 @@ Sudoku validator Gruppe 15
 
 Compiler:
  - Vi har brukt GCC compiler og GDB debugger med MinGW i dette prosjektet, 
-   ref: https://code.visualstudio.com/docs/cpp/config-mingw (Til og med kap. "Running the build")
+   ref: https://code.visualstudio.com/docs/cpp/config-mingw (Gå gjennom stegene i "Prerequisites")
 
 
 Build sudoku.c i VSC:
